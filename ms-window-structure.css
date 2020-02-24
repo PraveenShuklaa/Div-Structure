@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clr {
+    clear: both;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-sky{
+    background-color: rgb(94, 165, 187);
+}
+.bg-red {
+    background-color: red;
+}
+.bg-orange {
+    background-color: orange;
+}
+.bg-blvi {
+    background-color: blueviolet;
+}
+.container{
+    margin: 3.5% 5%;
+    height: 530px;
+}
+.col{
+    width:23.5%;
+    height: 530px;
+    margin-right: 1%;
+}
+.row1{
+    margin-bottom: 2%;
+    height: 128px;
+}
+.sub-box{
+    width: 48.8%;
+    height: 128px;
+}

@@ -1,0 +1,132 @@
+
+*{
+    margin: 0;
+    color: #fff;
+}
+.lh{
+    line-height: 24px;
+}
+.tac{
+    text-align: center;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clr{
+    clear: both;
+}
+.keyboard{
+    height: 60vh;
+    padding: 0.5%;
+    border: 6px outset #ef1423;
+    background: black;
+}
+.keys{
+    background-color: aliceblue;
+}
+.mb{
+    margin-bottom: 0.5%;
+}
+.ml{
+    margin-left: 0.9%;
+}
+.ml2{
+    margin-left: 2.1%;
+}
+.ml3{
+    margin-left: 1.95%;
+}
+.box{
+    width: 100%;
+    height: 100%;
+    padding-top: 35px;
+}
+.row1{
+    height: 7%;
+}
+.row1box{
+   /* height: 10%;*/
+    width: 3.9%;
+    border: 1px outset darkgray;
+    border-radius: 5px;
+}
+.restrow{
+    height: 13%;
+}
+.row2cl{
+    padding: 0px 5px;
+    line-height: 24px;
+}
+.row2box{
+    width: 4.435%;
+    border: 1px outset darkgray;
+    border-radius: 5px;
+}
+.row2box2{
+    width: 3.89%;
+    border: 1px outset darkgray;
+    border-radius: 5px;
+}
+.basp{
+    width: 7.15%;
+    line-height: 48px;
+    font-size: 18px;
+}
+.row3{
+    height: 98%;
+}
+.numrow2{
+    height: 98%;
+    line-height: 48px;
+    font-size: 18px;
+    text-align: center;
+}
+.encaps{
+    width: 8.88%;
+}
+.shwid{
+    width: 11%;
+}
+.sh2wid{
+    width: 6.77%;
+}
+.fun{
+    color: darkred;
+}
+.space{
+    width: 28%;
+}
+.benter{
+    width: 3.87%;
+}
+.bigkeys{
+    width: 95.3%;
+    float: left;
+}
+.rrwid{
+    width: 4.732%
+}
+.ctrlwid{
+    width: 5.98%
+}
+.rrboxwid{
+    width: 4.15%;
+}
+.tabwid{
+    width: 7.22%;
+}
+.delwid{
+    width: 4.1%;
+}
+.onekeys{
+    height: 16.4%;
+    position: absolute;
+    right: 20.5px;
+    width: 3.8%;
+}
+.lhbig{
+    line-height: 103px;
+}
